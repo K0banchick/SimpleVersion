@@ -1,0 +1,20 @@
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\bin\Debug\SimpleFileManager.exe.config
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\bin\Debug\SimpleFileManager.exe
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\bin\Debug\SimpleFileManager.pdb
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Debug\SimpleFileManager.csprojAssemblyReference.cache
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Debug\SimpleFileManager.Form1.resources
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Debug\SimpleFileManager.Properties.Resources.resources
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Debug\SimpleFileManager.csproj.GenerateResource.cache
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Debug\SimpleFileManager.csproj.CoreCompileInputs.cache
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Debug\SimpleFileManager.exe
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Debug\SimpleFileManager.pdb
+C:\Users\Твой повелитель\Desktop\Новая папка (2)\SimpleFileManager\bin\Debug\SimpleFileManager.exe.config
+C:\Users\Твой повелитель\Desktop\Новая папка (2)\SimpleFileManager\bin\Debug\SimpleFileManager.exe
+C:\Users\Твой повелитель\Desktop\Новая папка (2)\SimpleFileManager\bin\Debug\SimpleFileManager.pdb
+C:\Users\Твой повелитель\Desktop\Новая папка (2)\SimpleFileManager\obj\Debug\SimpleFileManager.csprojAssemblyReference.cache
+C:\Users\Твой повелитель\Desktop\Новая папка (2)\SimpleFileManager\obj\Debug\SimpleFileManager.Form1.resources
+C:\Users\Твой повелитель\Desktop\Новая папка (2)\SimpleFileManager\obj\Debug\SimpleFileManager.Properties.Resources.resources
+C:\Users\Твой повелитель\Desktop\Новая папка (2)\SimpleFileManager\obj\Debug\SimpleFileManager.csproj.GenerateResource.cache
+C:\Users\Твой повелитель\Desktop\Новая папка (2)\SimpleFileManager\obj\Debug\SimpleFileManager.csproj.CoreCompileInputs.cache
+C:\Users\Твой повелитель\Desktop\Новая папка (2)\SimpleFileManager\obj\Debug\SimpleFileManager.exe
+C:\Users\Твой повелитель\Desktop\Новая папка (2)\SimpleFileManager\obj\Debug\SimpleFileManager.pdb

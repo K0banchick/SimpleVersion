@@ -1,0 +1,10 @@
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\bin\Release\SimpleFileManager.exe.config
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\bin\Release\SimpleFileManager.exe
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\bin\Release\SimpleFileManager.pdb
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Release\SimpleFileManager.csprojAssemblyReference.cache
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Release\SimpleFileManager.Form1.resources
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Release\SimpleFileManager.Properties.Resources.resources
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Release\SimpleFileManager.csproj.GenerateResource.cache
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Release\SimpleFileManager.csproj.CoreCompileInputs.cache
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Release\SimpleFileManager.exe
+C:\Users\Твой повелитель\Desktop\Simple-File-Manager-C-main\SimpleFileManager\obj\Release\SimpleFileManager.pdb
